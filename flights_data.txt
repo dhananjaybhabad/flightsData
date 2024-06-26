@@ -1,0 +1,252 @@
+[
+  {
+    "code": "FL001",
+    "price": 150,
+    "origin": "New York",
+    "destination": "Los Angeles",
+    "departureDate": "2024-07-01",
+    "planeType": "Boeing 737",
+    "airlineName": "American Airlines",
+    "emptySeats": 20
+  },
+  {
+    "code": "FL002",
+    "price": 200,
+    "origin": "Chicago",
+    "destination": "Miami",
+    "departureDate": "2024-07-02",
+    "planeType": "Airbus A320",
+    "airlineName": "Delta Airlines",
+    "emptySeats": 15
+  },
+  {
+    "code": "FL003",
+    "price": 180,
+    "origin": "San Francisco",
+    "destination": "Seattle",
+    "departureDate": "2024-07-03",
+    "planeType": "Boeing 757",
+    "airlineName": "United Airlines",
+    "emptySeats": 10
+  },
+  {
+    "code": "FL004",
+    "price": 220,
+    "origin": "Houston",
+    "destination": "Denver",
+    "departureDate": "2024-07-04",
+    "planeType": "Boeing 777",
+    "airlineName": "Southwest Airlines",
+    "emptySeats": 25
+  },
+  {
+    "code": "FL005",
+    "price": 170,
+    "origin": "Boston",
+    "destination": "Orlando",
+    "departureDate": "2024-07-05",
+    "planeType": "Airbus A330",
+    "airlineName": "JetBlue",
+    "emptySeats": 12
+  },
+  {
+    "code": "FL006",
+    "price": 210,
+    "origin": "Dallas",
+    "destination": "Las Vegas",
+    "departureDate": "2024-07-06",
+    "planeType": "Boeing 787",
+    "airlineName": "Spirit Airlines",
+    "emptySeats": 18
+  },
+  {
+    "code": "FL007",
+    "price": 160,
+    "origin": "Philadelphia",
+    "destination": "Phoenix",
+    "departureDate": "2024-07-07",
+    "planeType": "Airbus A350",
+    "airlineName": "Frontier Airlines",
+    "emptySeats": 22
+  },
+  {
+    "code": "FL008",
+    "price": 190,
+    "origin": "Atlanta",
+    "destination": "New Orleans",
+    "departureDate": "2024-07-08",
+    "planeType": "Boeing 737",
+    "airlineName": "Alaska Airlines",
+    "emptySeats": 19
+  },
+  {
+    "code": "FL009",
+    "price": 200,
+    "origin": "Detroit",
+    "destination": "San Diego",
+    "departureDate": "2024-07-09",
+    "planeType": "Airbus A320",
+    "airlineName": "Hawaiian Airlines",
+    "emptySeats": 14
+  },
+  {
+    "code": "FL010",
+    "price": 180,
+    "origin": "Minneapolis",
+    "destination": "Salt Lake City",
+    "departureDate": "2024-07-10",
+    "planeType": "Boeing 757",
+    "airlineName": "Sun Country Airlines",
+    "emptySeats": 13
+  },
+  {
+    "code": "FL011",
+    "price": 220,
+    "origin": "Charlotte",
+    "destination": "Nashville",
+    "departureDate": "2024-07-11",
+    "planeType": "Boeing 777",
+    "airlineName": "Allegiant Air",
+    "emptySeats": 16
+  },
+  {
+    "code": "FL012",
+    "price": 170,
+    "origin": "Denver",
+    "destination": "San Antonio",
+    "departureDate": "2024-07-12",
+    "planeType": "Airbus A330",
+    "airlineName": "Virgin America",
+    "emptySeats": 24
+  },
+  {
+    "code": "FL013",
+    "price": 210,
+    "origin": "San Jose",
+    "destination": "Portland",
+    "departureDate": "2024-07-13",
+    "planeType": "Boeing 787",
+    "airlineName": "WestJet",
+    "emptySeats": 17
+  },
+  {
+    "code": "FL014",
+    "price": 160,
+    "origin": "Cleveland",
+    "destination": "Tampa",
+    "departureDate": "2024-07-14",
+    "planeType": "Airbus A350",
+    "airlineName": "Aeromexico",
+    "emptySeats": 11
+  },
+  {
+    "code": "FL015",
+    "price": 190,
+    "origin": "Indianapolis",
+    "destination": "St. Louis",
+    "departureDate": "2024-07-15",
+    "planeType": "Boeing 737",
+    "airlineName": "Copa Airlines",
+    "emptySeats": 21
+  },
+  {
+    "code": "FL016",
+    "price": 200,
+    "origin": "Kansas City",
+    "destination": "Baltimore",
+    "departureDate": "2024-07-16",
+    "planeType": "Airbus A320",
+    "airlineName": "LATAM Airlines",
+    "emptySeats": 15
+  },
+  {
+    "code": "FL017",
+    "price": 180,
+    "origin": "Las Vegas",
+    "destination": "Sacramento",
+    "departureDate": "2024-07-17",
+    "planeType": "Boeing 757",
+    "airlineName": "Aerolineas Argentinas",
+    "emptySeats": 20
+  },
+  {
+    "code": "FL018",
+    "price": 220,
+    "origin": "Louisville",
+    "destination": "Cincinnati",
+    "departureDate": "2024-07-18",
+    "planeType": "Boeing 777",
+    "airlineName": "Qantas",
+    "emptySeats": 10
+  },
+  {
+    "code": "FL019",
+    "price": 170,
+    "origin": "Memphis",
+    "destination": "Oklahoma City",
+    "departureDate": "2024-07-19",
+    "planeType": "Airbus A330",
+    "airlineName": "Emirates",
+    "emptySeats": 13
+  },
+  {
+    "code": "FL020",
+    "price": 210,
+    "origin": "Milwaukee",
+    "destination": "Columbus",
+    "departureDate": "2024-07-20",
+    "planeType": "Boeing 787",
+    "airlineName": "Etihad Airways",
+    "emptySeats": 18
+  },
+  {
+    "code": "FL021",
+    "price": 160,
+    "origin": "New Orleans",
+    "destination": "Indianapolis",
+    "departureDate": "2024-07-21",
+    "planeType": "Airbus A350",
+    "airlineName": "Lufthansa",
+    "emptySeats": 22
+  },
+  {
+    "code": "FL022",
+    "price": 190,
+    "origin": "Phoenix",
+    "destination": "Kansas City",
+    "departureDate": "2024-07-22",
+    "planeType": "Boeing 737",
+    "airlineName": "British Airways",
+    "emptySeats": 19
+  },
+  {
+    "code": "FL023",
+    "price": 200,
+    "origin": "Salt Lake City",
+    "destination": "Minneapolis",
+    "departureDate": "2024-07-23",
+    "planeType": "Airbus A320",
+    "airlineName": "Air France",
+    "emptySeats": 14
+  },
+  {
+    "code": "FL024",
+    "price": 180,
+    "origin": "San Antonio",
+    "destination": "Charlotte",
+    "departureDate": "2024-07-24",
+    "planeType": "Boeing 757",
+    "airlineName": "KLM",
+    "emptySeats": 13
+  },
+  {
+    "code": "FL025",
+    "price": 220,
+    "origin": "Seattle",
+    "destination": "San Jose",
+    "departureDate": "2024-07-25",
+    "planeType": "Boeing 777",
+    "airlineName": "Singapore Airlines",
+    "emptySeats": 16
+  }
+]
